@@ -233,9 +233,4 @@ Windows Server 2022 SERVERDATACENTER
 
    <https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh>
 
-## 感谢
 
-感谢以下商家提供白嫖机器
-
-[![Oracle Cloud](https://github.com/bin456789/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
-[![DartNode](https://github.com/bin456789/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
